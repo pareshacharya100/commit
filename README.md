@@ -1,2 +1,2 @@
 # commit
-cosebase for hosting commit.ai website
+codebase for hosting commit.ai website
